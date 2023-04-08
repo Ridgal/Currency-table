@@ -26,7 +26,3 @@ ___
 - `npm start`
 
 ---
-### `npm run dev`
-
-The page will reload when you make changes.
-You may also see any lint errors in the console.
